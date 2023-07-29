@@ -10,3 +10,7 @@
 :host(.active){
   border-color: red;
 }
+
+h3{
+  color:red;
+}

@@ -4,7 +4,7 @@ import { Course } from '../models/Course.models';
 @Component({
   selector: 'app-course',
   templateUrl: './course.component.html',
-  styleUrls: ['./course.component.css']
+  styleUrls: ['./course.component.css','./course2.component.css']
 })
 export class CourseComponent {
   @Input() course1 !:Course;
